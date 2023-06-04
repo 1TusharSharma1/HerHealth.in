@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+/* Navbar container */
+.navbar {
+  display: flex;
+  height: 55px;
+  align-items: center;
+  position: sticky;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #043819;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+}
+/* list items */
+li {
+  margin-left: 40px;
+  /* justify-content: end; */
+}
+/* Navbar logo */
+.navbar__logo {
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 50px;
+}
+
+/* Navbar list */
+.navbar__list {
+  list-style: none;
+  margin-right: 10px;
+  display: flex;
+  gap: 10px;
+  position: absolute;
+  top: 10px;
+  left: 490px;
+}
+
+/* Navbar list items */
+.navbar__item {
+  cursor: pointer;
+  color: #f1ba04;
+}
+
+/* Navbar login button */
+  .navbar__login-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 2px 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    position: absolute;
+    margin: 0;
+    top: 9px;
+    left: 1390px;
+
+    font-weight: lighter;
+}
+
+/* Navbar login */
+.navbar__login-icon {
+  font-size: 16px;
+}
+
+.navbar__item--login {
+  margin-left: auto;
+}
+.navbar__login-button {
+  margin-right: 50px;
+}

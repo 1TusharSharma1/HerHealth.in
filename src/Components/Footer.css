@@ -1,0 +1,38 @@
+footer {
+    background-color: #243E36;
+    padding: 20px 20px 0 20px;
+    margin-top: 1150px;
+    text-align: center;
+    color: #EBA200;
+    font-weight: 600;
+
+  }
+  
+  .footer-section {
+    margin: 20px;
+    position:relative;
+  }
+  
+  .footer-link {
+    color: #EBA200;
+    text-decoration: none;
+    font-weight: 600;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  a{
+    text-decoration: none;
+  }
+  ul>li{
+    list-style-type: none; 
+    position:relative;
+    top: 0; bottom: 0; left: 0; right: 0;
+    margin: auto;
+    height: 20px;
+  }
+  li{
+    padding: 9px;
+  }
+  h3{
+    color: whitesmoke;
+  }
