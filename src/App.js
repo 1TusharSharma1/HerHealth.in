@@ -1,4 +1,5 @@
 import "./App.css";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import Navbar from "./Components/Navbar";
 import Page0 from "./Components/Page0";
 import Card1 from "./Components/Card1";

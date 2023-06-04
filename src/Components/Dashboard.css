@@ -1,0 +1,31 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .dashboard {
+      background-color: #8e77dd;
+      padding: 20px;
+    }
+
+    .section {
+      background-color: #bbdf9e;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      margin-top: 0;
+      margin-bottom: 10px;
+    }
+
+    .card {
+      background-color: #e4bcd8;
+      padding: 10px;
+      border-radius: 5px;
+      margin-bottom: 10px;
+    }
