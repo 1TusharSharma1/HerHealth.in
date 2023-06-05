@@ -13,7 +13,7 @@ export default function DashBoard() {
           <div class="section">
             <h2>Health Summary</h2>
             <div class="card">
-              {/* <!-- Include health summary data --> */}
+              <a style={{padding:"100px"}} href="https://playful-mandazi-09a597.netlify.app/">Click here for your Detailed Health Analysis</a>
             </div>
             <div class="card">
               {/* <!-- Include health summary data --> */}
